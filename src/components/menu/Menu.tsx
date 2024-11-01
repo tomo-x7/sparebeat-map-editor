@@ -133,7 +133,7 @@ export const Menu = () => {
             </Dialog>
 
             <NavbarGroup align={Alignment.LEFT}>
-                <NavbarHeading>Sparebeat Map Editor</NavbarHeading>
+                <NavbarHeading>Sparebeat Map Editor fork</NavbarHeading>
                 <NavbarDivider />
                 <Tooltip disabled={!loaded} content="曲情報の編集">
                     <Button
